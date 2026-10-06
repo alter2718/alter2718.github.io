@@ -1,7 +1,7 @@
 +++
 date = '2026-10-06T20:22:59+08:00'
-draft = true
-title = 'My First Post'
+draft = false
+title = '测试文章'
 +++
 
 ## 测试
