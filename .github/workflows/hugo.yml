@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - master # 如果你本地分支是 main，请改成 main
+      - master
 
   workflow_dispatch:
 
